@@ -4,7 +4,7 @@
  * Our database credentials.
  */
 $config = array(
-  'host'		=> '127.0.0.1',
+  'host'		=> '',
   'username'	=> 'root',
   'password'	=> '', // Hidden
   'dbname' 	=> 'andreiho_xmldb'
